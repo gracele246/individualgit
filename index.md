@@ -2,11 +2,15 @@
 
 Here you can find my Notes and Replit linked down below
 
-### AP Computer Science Notes
+## Github Personal Page: [Link](https://gracele246.github.io/individualgit/)
+
+## Github Team Page: 
+
+## AP Computer Science Notes
 
 [Notes](https://docs.google.com/document/d/1dFJccMrcsShhnTnlHlOgUr9Pw3E7xz5TUFw5p1UVCMA/edit?usp=sharing)
 
-### Repl.it
+## Repl.it
 
 [Repl.it](https://replit.com/@GraceLe1/datastructurescode#.replit)
 
