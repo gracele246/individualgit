@@ -2,8 +2,6 @@
 
 Here you can find my Notes and Replit linked down below
 
-### Github Personal Page: [Link](https://gracele246.github.io/individualgit/)
-
 ### Github Review Ticket: [Ticket](https://github.com/gracele246/individualgit/issues/1)
 
 ### Github Team Page: [Link](https://gracele246.github.io/theshop/)
@@ -12,6 +10,13 @@ Here you can find my Notes and Replit linked down below
 
 ### Repl.it: [Repl.it](https://replit.com/@GraceLe1/datastructurescode#.replit)
 
+```
+**Notes and Plans for Tech Talks and AP Exam Here**
+Go to tutorial for any help and also make sure to ask scrum team and other coders as well
+Take good notes to make sure to understand topics
+Make sure to rewatch any AP videos for practice or to re-learn different topics
+Look back at AP CSA Notes for more practice
+```
 
 ### Support or Contact
 
