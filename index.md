@@ -1,12 +1,5 @@
 ## Welcome to Grace's Individual Pages
 
-
----
-layout: default
----
-{% include navigation.html %}
-
-
 Here you can find my Notes and Replit linked down below
 
 ### Github Review Ticket: [Ticket](https://github.com/gracele246/individualgit/issues/1)
