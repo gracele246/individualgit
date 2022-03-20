@@ -4,21 +4,9 @@ Here you can find my Notes and Replit linked down below
 
 {% include navigation.html %}
 
-### Github Review Ticket: [Ticket](https://github.com/gracele246/individualgit/issues/1)
-
-### Github Team Page: [Link](https://gracele246.github.io/theshop/)
-
-### AP Computer Science Notes: [Notes](https://docs.google.com/document/d/1dFJccMrcsShhnTnlHlOgUr9Pw3E7xz5TUFw5p1UVCMA/edit?usp=sharing)
 
 ### Repl.it: [Repl.it](https://replit.com/@GraceLe1/datastructurescode#.replit)
 
-```
-**Notes and Plans for Tech Talks and AP Exam Here**
-Go to tutorial for any help and also make sure to ask scrum team and other coders as well
-Take good notes to make sure to understand topics
-Make sure to rewatch any AP videos for practice or to re-learn different topics
-Look back at AP CSA Notes for more practice
-```
 
 #### Support or Contact
 
