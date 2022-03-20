@@ -2,7 +2,7 @@
 
 # Tech Talk Notes
 ```
-**Notes and Plans for Tech Talks and AP Exam Here**
+** Notes and Plans for Tech Talks and AP Exam Here **
 Go to tutorial for any help and also make sure to ask scrum team and other coders as well
 Take good notes to make sure to understand topics
 Make sure to rewatch any AP videos for practice or to re-learn different topics
