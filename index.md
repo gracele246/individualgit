@@ -2,6 +2,8 @@
 
 Here you can find my Notes and Replit linked down below
 
+{% include navigation.html %}
+
 ### Github Review Ticket: [Ticket](https://github.com/gracele246/individualgit/issues/1)
 
 ### Github Team Page: [Link](https://gracele246.github.io/theshop/)
