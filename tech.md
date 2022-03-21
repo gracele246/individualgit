@@ -63,6 +63,32 @@ private final Map<String, Integer> OPERATORS = new HashMap<>();
 ```
 
 ## TT1
+### Linked Lists
+- Data Structures conversation continue with the discussions of Linked Lists. There is an implementation built into Java providing an implementation to help you visualize this Data Structure internally. Stacks and Queues can be built on top of Linked Lists and this implementation and code examples show LinkedList used as nodes in these Data Structures.
+- Linked list are a way of keeping and managing a list of Objects
+- ABCD have Data and Next pointer
+- E is illustrative of inserting a new Object
+- tmp illustrates accessing the Data from the D Object
+```
+public class LinkedList
+{
+    private Object opaqueObject;  // opaqueObject means specific type is not known, as LinkedList are not specific to a data type
+    private LinkedList prevNode;
+    private LinkedList nextNode;
+
+    /**
+     *  Constructs a new element with object objValue,
+     *  followed by object address
+     *
+     * @param  opaqueObject  Address of Object
+     */
+    public LinkedList(Object opaqueObject, LinkedList node)
+    {
+        this.setObject(opaqueObject);
+        this.setPrevNode(node);
+        this.setNextNode(null);
+    }
+```
 
 ## TT2
 
