@@ -1,2 +1,0 @@
-forlanguage = "java"
-run = "javac src/Menu.java; java src/Menu; rm src/*.class; rm src/week0/*.class; rm src/week1/*.class; rm src/week2/*.class; "
