@@ -1,1 +1,1 @@
-# individualgit
+# Grace Individual Github Page
