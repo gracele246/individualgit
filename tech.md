@@ -134,11 +134,11 @@ As it progresses from index [0] to [n-1], selection sort is a linear sort algori
 ![image](https://user-images.githubusercontent.com/73254122/161649682-541a4a90-1061-45b3-8c95-150d95b3b6a2.png)
 
 ### Insertion Sort
-Insertion sort is another linear algorithm that sorts elements from index [0] to index [n-1]. In the inner loop of this algorithm, it find the gap, insertion point for the next item and inserts it. Each inner loop leave the list partially sorted according to outer loops index.
-![image](https://user-images.githubusercontent.com/73254122/161593488-5a4d2648-7841-4f73-a072-e53d972ca772.png)
+Another linear technique is insertion sort, which sorts elements from index [0] to index [n-1]. This algorithm's inner loop finds the gap, or insertion point, for the next item and inserts it. The list is partially sorted according to the index of the outer loops after each inner loop.
+![image](https://user-images.githubusercontent.com/73254122/161649793-061c212d-4e2d-42b9-946c-3248958f28b1.png)
 
 ### Merge Sort
-This algorithm uses a divide and conquer algorithm, versus linear algorithm of insertion or selection sort. Looking at it can be complicated, but it is more simple than it looks. It divides the array into two different groups recursively, until it gets only two to compare, swaps if necessary. Then it pops out of the recursion, observe the cascading and then the inverted assembly in illustration, after pop it puts each split group back together using a sorted comparison.
+Rather than using a linear insertion or selection sort technique, this algorithm employs a divide and conquer strategy. It may appear complicated at first glance, but it is actually rather simple. It recursively separates the array into two groups until there are only two to compare, swapping if required. Then it pops out of the recursion; notice the cascading and then the inverted assembly in the figure; following that, it uses a sorted comparison to put each separated group back together.
 ![image](https://user-images.githubusercontent.com/73254122/161593527-38a46635-e9fd-4378-b8fb-b7998ca8a5c3.png)
 
 
