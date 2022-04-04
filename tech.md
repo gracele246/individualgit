@@ -139,6 +139,7 @@ Another linear technique is insertion sort, which sorts elements from index [0] 
 
 ### Merge Sort
 Rather than using a linear insertion or selection sort technique, this algorithm employs a divide and conquer strategy. It may appear complicated at first glance, but it is actually rather simple. It recursively separates the array into two groups until there are only two to compare, swapping if required. Then it pops out of the recursion; notice the cascading and then the inverted assembly in the figure; following that, it uses a sorted comparison to put each separated group back together.
+
 ![image](https://user-images.githubusercontent.com/73254122/161650021-64aaf97f-76bd-45bd-94ee-103a40e70ec8.png)
 
 
