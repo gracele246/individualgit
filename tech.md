@@ -130,8 +130,8 @@ public class LinkedList
 ## TT3
 
 ### Selection Sort
-Selection sort is a linear sort algorithm as it moves from index [0] to [n-1]. In an inner loop it in a second linear loop that compares two elements (like seen in the visual below) and notes which is smallest, after cycling to the end it swaps the smallest number to the lowest in the round.
-![image](https://user-images.githubusercontent.com/73254122/161593419-d07548c6-4651-4bc1-a301-c65d0194dab2.png)
+As it progresses from index [0] to [n-1], selection sort is a linear sort algorithm. In an inner loop, it runs a second linear loop that compares two items (as shown in the diagram below) and records which is the smallest, then swaps the smallest number to the lowest in the round after cycling to the finish.
+![image](https://user-images.githubusercontent.com/73254122/161649682-541a4a90-1061-45b3-8c95-150d95b3b6a2.png)
 
 ### Insertion Sort
 Insertion sort is another linear algorithm that sorts elements from index [0] to index [n-1]. In the inner loop of this algorithm, it find the gap, insertion point for the next item and inserts it. Each inner loop leave the list partially sorted according to outer loops index.
